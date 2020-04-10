@@ -1,4 +1,4 @@
-![Image description](Capture.png)
+![Image description](./Capture.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
