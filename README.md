@@ -1,4 +1,4 @@
-![Image description](./Capture.PNG)
+![Image description](https://github.com/addis16/material-ui-drawer-nav/Capture.PNG)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
